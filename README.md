@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner_terminal.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Jimena-Romero/Jimena-Romero@main/banner_terminal.svg" width="100%"/>
 
 </div>
 
@@ -89,7 +89,7 @@ $ ./contrib --render 3d
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="90%"/>
+<img src="https://cdn.jsdelivr.net/gh/Jimena-Romero/Jimena-Romero@main/profile-3d-contrib/profile-night-green.svg" width="90%"/>
 
 </div>
 
