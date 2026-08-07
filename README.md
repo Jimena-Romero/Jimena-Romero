@@ -14,8 +14,6 @@ Curso 5° año de **Ingeniería en Sistemas de Información** en la UTN Facultad
 Desde ahí armé **clic**, mi agencia de software: **5 sistemas en producción** para clientes de rubros
 legal, EdTech, e-commerce, inmobiliario y financiero.
 
-Además hago mi **PPS** en RojoSoft S.R.L., trabajo en la Secretaría de Extensión de la UTN,
-y participo del Consejo Departamental.
 
 ```
 $ ls ./ahora
